@@ -10,5 +10,3 @@ Install vim CLI on windows
   w (write)
   q (quit vim)
   q! (quit without writing)
-  u (undo file)
-  0 (line start) $ (line end)
